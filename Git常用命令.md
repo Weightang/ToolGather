@@ -268,7 +268,11 @@
 
 ## 远程同步
 
-#### 下载远程仓库的所有变动
+#### 本地库关联远程库
+
+- $ git remote add origin [url]
+
+  #### 下载远程仓库的所有变动
 
 - $ git fetch [remote]
 
